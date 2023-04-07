@@ -1,6 +1,6 @@
 ## Heyy there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Abhishek Thomas Varghese, currently pursuing my BTech degree in Computer Science and Engineering. I am a tech enthusiast.
+Hi there! I'm Abhishek, a computer science student with a passion for cyber security. I'm constantly learning and exploring new technologies, and I love sharing my knowledge with others.
 
 
 
